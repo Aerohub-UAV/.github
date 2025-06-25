@@ -63,7 +63,7 @@ Stay tuned for updates or get in touch to contribute.
 
 If you're working on something drone-related and need help, or want to co-develop solutions, reach out!
 
-Email: [aerohubworks@gmail.com](mailto:aerohubworks@gmail.com)
+Email: [admin@aerohubworks.com](mailto:admin@aerohubworks.com)
 
 ---
 
@@ -83,9 +83,8 @@ Please check individual repositories' `CONTRIBUTING.md` for contribution guideli
 ## Stay Connected
 
 - Website: [aerohubworks.com](https://www.aerohubworks.com)
-- Twitter: [@aerohubworks](https://twitter.com/aerohubworks)
-- Instagram: [@aerohubworks](https://instagram.com/aerohubworks)
-- LinkedIn: [AeroHub](https://linkedin.com/company/aerohubworks)
+- Email: [admin@aerohubworks.com](mailto:admin@aerohubworks.com)
+- LinkedIn: [AeroHub UAV Solutions](https://linkedin.com/company/aerohub-uav-solutions)
 
 ---
 
